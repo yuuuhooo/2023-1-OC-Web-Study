@@ -36,4 +36,8 @@ git을 사용하는 이유: 협업에 용이함.
 working directory / staging area / local repository / git
                  add          commit              push
 
+WD-SA : add
+SA-LR : commit
+LR-GitHub : push
+
 github = remote repository
